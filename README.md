@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junukhatri&label=Profile%20views&color=0e75b6&style=flat" alt="junukhatri" /> </p>
 
-- 🔭 I’m currently working on **different projects related to Web Development.**
+- 🔭 I’m currently working on **different projects related to Graphic Designing.**
 
-- 🌱 I’m currently learning **MEARN stack.**
+- 🌱 I’m currently learning ** Graphic Designing.**
 
 - 📫 You can reach me at **xzenisha@gmail.com**
 
