@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Junu Khatri</h1>
 <h3 align="center">A passionate Web Developer</h3>
+<img akign="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junukhatri&label=Profile%20views&color=0e75b6&style=flat" alt="junukhatri" /> </p>
 
-- 🔭 I’m currently working on **different project related to Web Development**
+- 🔭 I’m currently working on **different project related to Web Develpoment**
 
-- 🌱 I’m currently learning **MERN Stack course**
+- 🌱 I’m currently learning **MEARN Stack course**
 
 - 📫You can reach me at **xzenisha@gmail.com**
 
